@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /home/aman-sharma/Desktop/Timer/prisma \\\\ *)"
+    ],
+    "additionalDirectories": [
+      "/home/aman-sharma/Desktop/Timer/src/app/api/auth"
+    ]
+  }
+}
